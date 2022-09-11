@@ -1,0 +1,94 @@
+.App {
+  max-width: 600px;
+  margin: auto;
+  padding: 2rem;
+
+  /* background-color: grey; */
+}
+
+.ul {
+  display: table;
+  /* margin: 0 auto; */
+}
+/* text-align: center; */
+/* list-style-position: inside; */
+/* /*} */
+
+/* .list-div {
+  text-align: center;
+} */
+
+li {
+  display: block;
+  list-style: none;
+  /* border: 10px solid black; */
+  border: 1px solid #d1d5db;
+  padding: 2rem;
+  margin: auto;
+  margin: 30px;
+  width: 200%;
+
+  font-family: ariel;
+  text-align: left;
+  align-items: left;
+
+  /* text-align: center; */
+  max-width: 100%;
+}
+body {
+  /* background-color: #efefef; */
+  color: black;
+  margin: 0;
+}
+
+/* #list-item {
+  list-style: none;
+  border: 10px solid #dda0dd;
+  padding: 2rem;
+  margin: auto;
+  margin: 30px;
+  font-family: ariel;
+} */
+/* text-align: center; */
+/* max-width: 700px; */
+/* }
+/* justify-content: center; */
+
+button {
+  font-family: ariel;
+  /* padding: 12px; */
+  display: inline-block;
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 14px 25px;
+  /* padding: 0.5rem 1rem; */
+  margin: 1rem 0.3rem;
+  font-size: 14px;
+  cursor: pointer;
+  margin-right: 5px;
+  border-radius: 1rem;
+}
+
+h2 {
+  font-family: ariel;
+  font-size: larger;
+  text-align: center;
+}
+.button:hover {
+  background-color: lavender;
+}
+.item:hover {
+  background-color: lavender;
+}
+
+/* #list-item{
+  text-align: "center" ,
+ 
+                    liststyle: "none",
+                    padding: "1rem",
+                    border: "1px solid #D1D5DB",
+                    width: "70%",
+                    margin: "1rem 0rem",
+                    border-radius: "0.5rem"
+} */
